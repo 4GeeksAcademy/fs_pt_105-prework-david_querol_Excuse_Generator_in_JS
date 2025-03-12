@@ -1,5 +1,17 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
 body{
-    background: white;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 20px, 20px, 20px;
+    height: 100vh;
+
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
